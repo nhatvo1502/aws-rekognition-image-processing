@@ -16,6 +16,6 @@ terraform apply --auto-approve
 ## Using Instruction:
 1. Upload a picture into *serverless-image-input-bucket* 
 2. Download the metadata from *serverless-image-output-bucket* \
-![alt text](<images/s3output.jpg>)
-![alt text](<images/bird.jpg>)
+![alt text](<images/s3output.pmg>) \
+![alt text](<images/bird.jpg>) \
 ![alt text](<images/metadata.png>)
